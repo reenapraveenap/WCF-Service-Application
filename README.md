@@ -332,6 +332,6 @@ git push -u origin main
 # 👩‍💻 Author
 
 **Reena Praveena Pampana**
-Associate Software Engineer | .NET Full Stack Developer
+ .NET Full Stack Developer
 
 ---
