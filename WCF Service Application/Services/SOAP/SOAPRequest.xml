@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<s:Envelope xmlns:s=
+"http://schemas.xmlsoap.org/soap/envelope/">
+
+	<s:Body>
+
+		<GetTruckByIdResponse>
+
+			<TruckId>1</TruckId>
+
+			<TruckName>FH16</TruckName>
+
+			<DriverName>TestingName</DriverName>
+
+			<ServiceStatus>Active</ServiceStatus>
+
+		</GetTruckByIdResponse>
+
+	</s:Body>
+
+</s:Envelope>
+

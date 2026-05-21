@@ -1,0 +1,26 @@
+﻿@model WCF_Service_Application.Models.TruckModel
+
+@{
+    ViewData["Title"] = "Truck Details";
+}
+
+<h2>Truck Details</h2>
+
+<table class="table">
+
+    <tr>
+        <td>Truck Name</td>
+        <td>@Model.TruckName</td>
+    </tr>
+
+    <tr>
+        <td>Driver Name</td>
+        <td>@Model.DriverName</td>
+    </tr>
+
+    <tr>
+        <td>Status</td>
+        <td>@Model.ServiceStatus</td>
+    </tr>
+
+</table>
